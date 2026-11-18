@@ -1,9 +1,12 @@
 ---
 name: empirie-grafiken
-description: Wissenschaftliche Datenvisualisierungen mit Python für universitäre Arbeiten, empirische Analysen und Publikationen erstellen und überprüfen.
+description: Wissenschaftliche Datenvisualisierungen mit Python für universitäre Arbeiten, empirische Analysen und Publikationen erstellen und überprüfen. Verwenden für wissenschaftliche Abbildungen, empirische Diagramme, Grafiken für Hausarbeiten, Abschlussarbeiten und Seminararbeiten, Datenvisualisierung von Primärdaten (z. B. Weltbank, OECD, Eurostat) und Grafiken zu statistischen Auswertungen – als druckfertige PDF/SVG/PNG-Dateien mit matplotlib/seaborn und vollständiger Quellenzeile. Nicht für interaktive Web-Dashboards oder HTML-Artefakte.
 ---
 
 # Empirie-Grafiken
+
+## Vorrang von Professorenvorgaben
+Konkrete Hochschul-/Professorenvorgaben (Grafikformat, Zitierstil der Quellenzeile, Beschriftungssprache, Abbildungsnummerierung, vorgegebene Datensätze) haben Vorrang vor den Layout- und Formatregeln dieses Skills. Bei Widerspruch oder Unklarheit nachfragen. Nicht verhandelbar: keine erfundenen Daten/Quellen, keine irreführenden Darstellungen, Quellenangabe vorhanden.
 
 ## Technologie
 - Python mit matplotlib und seaborn; Datenverarbeitung mit pandas/numpy nur soweit nötig.

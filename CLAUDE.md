@@ -2,6 +2,14 @@
 
 Detailstandards: `.claude/skills/uni-exzellenz/SKILL.md` (bei jeder wissenschaftlichen Aufgabe laden).
 
+## 0. Vorrang von Professoren- und Veranstaltungsvorgaben
+Individuelle Vorgaben haben bei jeder wissenschaftlichen Aufgabe Vorrang vor allgemeinen Formatierungs-, Zitier- und Stilkonventionen der Skills (Details: uni-exzellenz, Abschnitt 0).
+- Hochgeladene Aufgabenstellungen und Bewertungskriterien berücksichtigen.
+- Vorgeschriebene Zitierstile und Formatierungen exakt einhalten.
+- Vorlesungsskripte und bereitgestellte Literatur berücksichtigen.
+- Bei widersprüchlichen oder unklaren Anforderungen nachfragen.
+- Wissenschaftliche Integrität und korrekte Quellenarbeit (Regeln 1 und 3) bleiben verpflichtend.
+
 ## 1. Null-Halluzination & Quellengarantie
 - NIEMALS Autoren, Titel, Jahreszahlen, DOIs, Zitierzahlen oder empirische Werte erfinden.
 - Bei Terminal-/Web-Zugriff jede Quelle verifizieren: Semantic Scholar, OpenAlex, Crossref; Daten: Weltbank, OECD, IMF.

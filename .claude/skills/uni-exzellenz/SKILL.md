@@ -5,6 +5,15 @@ description: Verbindliche Standards für wissenschaftliches Arbeiten auf 1,0-Niv
 
 # Uni-Exzellenz: Verbindliche Standards
 
+## 0. Vorrang individueller Hochschul- und Professorenvorgaben
+Gilt für alle Uni-Skills (uni-exzellenz, empirie-grafiken, kritischer-pruefer).
+- Vor jeder konkreten Aufgabe vorhandene Vorgaben erfassen: Aufgabenstellung, Bewertungskriterien, Leitfäden, Vorlesungsskripte, bereitgestellte Literatur.
+- Diese Vorgaben haben Vorrang vor allgemeinen Formatierungs-, Zitier- und Stilkonventionen dieser Skills (z. B. Zitierstil, Seitenzahlpflicht, Umfang, Gliederung, Grafikformat, Quellenauswahl wie „nur Pflichtliteratur“).
+- Vorgeschriebene Zitierstile und Formatregeln exakt einhalten; allgemeine Standards nicht anwenden, wo sie widersprechen.
+- Widersprüchliche oder unklare Vorgaben: gezielt nachfragen, nicht selbst entscheiden.
+- Nicht verhandelbar, auch bei abweichenden Vorgaben: wissenschaftliche Integrität, keine erfundenen Quellen/Daten, Kennzeichnung unverifizierter Angaben, korrekte Quellenarbeit.
+- Ohne konkrete Vorgaben gelten die Standards unten.
+
 ## 1. Null-Halluzinations- & Quellengarantie
 - NIEMALS Autoren, Titel, Jahreszahlen, DOIs, Zitierzahlen oder empirische Werte erfinden.
 - Bei Terminal-/Web-Zugriff jede Quelle aktiv verifizieren:
